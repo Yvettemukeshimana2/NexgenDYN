@@ -1,7 +1,7 @@
  import React from "react";
 import { Link } from "react-router-dom";
 // import WhatsAppChatButton from "../Component/Whatsapchart";
-import im1 from "../assets/images.jpg";
+// import im1 from "../assets/images.jpg";
 
 const services = [
   { title: "Renewable Energy", desc: "Solar PV design, BESS, and hybrid energy systems .", link: "/services/3" },

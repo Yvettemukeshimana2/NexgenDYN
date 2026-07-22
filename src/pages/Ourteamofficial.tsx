@@ -3,7 +3,7 @@ import "font-awesome/css/font-awesome.min.css"; // Import Font Awesome CSS for i
  import t1 from "../assets/WhatsApp Image 2024-10-23 at 10.31.32.jpeg";
 //  import t3 from "../assets/Pictures/Design&Installation of manufacturing facilities 2.jpg";
  import t2 from "../assets/WhatsApp Image 2024-10-23 at 10.31.35.jpeg";// Sample team members data
- import yv from "../assets/IMG-20240919-WA0042 copy (1).jpg"
+ import yv from "../assets/WhatsApp Image 2026-07-22 at 2.00.15 PM.jpeg"
 const teamMembers = [
   {
     name: "Elysée NSHIMIYIMANA",

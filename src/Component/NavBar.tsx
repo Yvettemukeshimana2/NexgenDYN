@@ -1,7 +1,7 @@
  import { useCallback, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { Menu, X } from "lucide-react";
-import logo from "../assets/Nexgen.png";
+import logo from "../assets/Nexgen (2).png";
 
 const NavBar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
