@@ -40,7 +40,8 @@ const Home: React.FC = () => {
             Engineering the future of Africa.
           </h1>
           <p className="text-white text-base md:text-lg mt-6 max-w-xl leading-relaxed">
-            Innovative,  
+            Innovative, 
+            
           </p>
 
           <div className="flex flex-wrap gap-4 mt-9">
