@@ -40,9 +40,7 @@ const Home: React.FC = () => {
             Engineering the future of Africa.
           </h1>
           <p className="text-white text-base md:text-lg mt-6 max-w-xl leading-relaxed">
-            Innovative, reliable, and sustainable engineering and technology
-            solutions across industrial, energy, and mobility sectors —
-            tailored to your needs.
+            Innovative,  
           </p>
 
           <div className="flex flex-wrap gap-4 mt-9">
