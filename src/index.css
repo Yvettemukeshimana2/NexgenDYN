@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-brand-bg text-brand-charcoal antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-brand-navy;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-brand-yellow text-brand-navy font-semibold px-4 py-2 rounded transition-colors duration-300 hover:bg-brand-yellow-hover;
+  }
+
+  .btn-outline {
+    @apply border-2 border-brand-navy text-brand-navy font-semibold px-4 py-2 rounded transition-colors duration-300 hover:bg-brand-navy hover:text-white;
+  }
+
+  .section-heading {
+    @apply text-3xl font-bold text-brand-navy;
+  }
+
+  .card-surface {
+    @apply bg-white rounded-lg shadow-md;
+  }
+}
