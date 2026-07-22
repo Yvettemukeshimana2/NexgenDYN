@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination } from "swiper/modules";
 
 // Import your assets
-import im1 from "../assets/Pictures/Design,manufacture&install robotics in agriculture.jpg";
+import im1 from "../assets/Design,manufacture&install robotics in agriculture.jpg";
 
 import "swiper/css";
 import "swiper/css/navigation";
